@@ -34,8 +34,7 @@ public class superkeyword
 	
    public static void main(String[] args) 
    {
-	   System.out.println("Question:- ((((x1+x2)+x3)-x4)*x5)/x6 ? ");
-	   System.out.println("Ans:-");
+	   System.out.println("Question:- ((((x1+x2)+x3)-x4)*x5)/x6 ? \n Ans:- ");
 	   superkeyword scan= new superkeyword();
 	   Scanner S=new Scanner(System.in);
 	   					System.out.println("Please enter the value of following x1,x2,");
